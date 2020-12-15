@@ -414,7 +414,7 @@ section article a:active {
         font-size: 1em
     }
     #seashorefront {
-        background-image: url('../images/motel_front_1.jpg');
+        background-image: url('motel_front_1.jpg');
         background-size: cover;
         background-position: center;
         width: 100%;
